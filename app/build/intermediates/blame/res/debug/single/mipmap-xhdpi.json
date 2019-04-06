@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Ihan\\Tugas\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\Ihan\\Tugas\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ihan\\Tugas\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_get_start_timitory.png",
+        "source": "F:\\Ihan\\Tugas\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "F:\\Ihan\\Tugas\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "F:\\Ihan\\Tugas\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
